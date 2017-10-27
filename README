@@ -1,0 +1,9 @@
+1) All the codes have been put together in script "gsq_ml_blp_faceless_men1.R"
+2) Some Libraries need to be installed in order to run the code. Uuncomment that part 
+   to install the libraries.
+3) Set the working directory to the folder which contains both metadata and dataset.
+4) The output file will be generated in working directory itself.
+5) Code might take a long time to run.
+
+In case of any discrepancy or trouble in running the code, mail to siddhantaditya01@gmail.com
+
